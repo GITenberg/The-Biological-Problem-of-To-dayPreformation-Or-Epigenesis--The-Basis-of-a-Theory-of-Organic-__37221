@@ -1,0 +1,46 @@
+_repo: The-Biological-Problem-of-To-dayPreformation-Or-Epigenesis--The-Basis-of-a-Theory-of-Organic-__37221
+_version: 0.1.0
+alternative_title:
+- Präformation oder Epigenese? English
+- "The Biological Problem of Today: Preformation Or Epigenesis?\r\nThe Basis of a\
+  \ Theory of Organic Development"
+contributor:
+  translator:
+    agent_name: Mitchell, P. Chalmers (Peter Chalmers), Sir
+    alias: Mitchell, Peter Chalmers, Sir
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '7034'
+    url: http://www.gutenberg.org/2009/agents/7034
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hertwig, Oscar
+    aliases:
+    - Hertwig, Oskar
+    - Hertwig, O. (Oscar)
+    - Hertwig, Wilhelm August Oskar
+    - Gertvig, O. (Oskar)
+    birthdate: 1849
+    deathdate: 1922
+    gutenberg_agent_id: '38711'
+    url: http://www.gutenberg.org/2009/agents/38711
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Genetics'
+- !lcsh 'Developmental biology'
+- !lcsh 'Embryology'
+- !lcc 'QH'
+title: "The Biological Problem of To-day: Preformation Or Epigenesis?\r\nThe Basis\
+  \ of a Theory of Organic Development"
+url: http://www.gutenberg.org/ebooks/37221
